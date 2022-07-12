@@ -1,8 +1,8 @@
 RENCANA KONTEN NANDO
 - Javascript
   * Framework Javascript
-    -> Angular
-    -> React
+    -> Vue
+    -> React Js
 - PHP Framework
   * Laravel
 - Vlogs
