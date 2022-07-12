@@ -1,7 +1,10 @@
 RENCANA KONTEN NANDO
 - Javascript
   * Framework Javascript
+    -> Vue
+    -> React Js
 - PHP Framework
+  * Laravel
 - Vlogs
 - Python
 - Struktur data dasar
