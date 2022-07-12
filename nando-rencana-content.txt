@@ -4,3 +4,4 @@ RENCANA KONTEN NANDO
 - PHP Framework
 - Vlogs
 - Python
+- Struktur data dasar
