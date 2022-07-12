@@ -1,6 +1,5 @@
 Nando Resolusi
-- Disiplin
 - Belajar programmming 6 jam sehari kecuali hari minggu
 - Menyelesaikan projek magangjogja.com yaitu website sejenis mamikos.com
-- Jangan pernah mengeluh
 - Belajar Laravel
+- Buat konten
