@@ -4,3 +4,4 @@ Nando Resolusi
 - Menyelesaikan projek magangjogja.com yaitu website sejenis mamikos.com
 - Rajin belajar
 - Jangan pernah mengeluh
+- Belajar Laravel
