@@ -7,4 +7,3 @@ RENCANA KONTEN NANDO
   * Laravel
 - Vlogs
 - Python
-- Struktur data dasar
